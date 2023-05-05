@@ -1,0 +1,44 @@
+﻿  Main.cpp
+D:\Users\Zuzanno\source\repos\VP\Main.cpp(139,27): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Users\Zuzanno\source\repos\VP\Main.cpp(151,28): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Users\Zuzanno\source\repos\VP\Main.cpp(163,28): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Users\Zuzanno\source\repos\VP\Main.cpp(175,28): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Users\Zuzanno\source\repos\VP\Main.cpp(225,50): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Users\Zuzanno\source\repos\VP\Main.cpp(225,42): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Users\Zuzanno\source\repos\VP\Main.cpp(230,50): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Users\Zuzanno\source\repos\VP\Main.cpp(230,42): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+  VP.vcxproj -> D:\Users\Zuzanno\source\repos\VP\x64\Debug\VP.exe
+  D:\Users\Zuzanno\source\repos\VP\packages\SFML-cpp.redist.2.5.1.1\build\native\bin\x64\Debug\openal32.dll
+  1 File(s) copied
